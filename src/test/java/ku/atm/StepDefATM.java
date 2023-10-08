@@ -7,6 +7,9 @@ import io.cucumber.java.en.When;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * @author Pawat Puttimit 6410406827
+ */
 public class StepDefATM {
 
     ATM atm;
